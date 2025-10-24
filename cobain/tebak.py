@@ -8,5 +8,5 @@ while True:
     elif tebakan > angka_acak:
         print("Terlalu tinggi! Ayo coba lagi.")
     else:
-        print("Selamat! Tebakan Anda benar:v")
+        print("Selamat! Tebakan Anda benar.")
         break
